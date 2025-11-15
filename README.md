@@ -3,8 +3,7 @@
 
 1.Download and install:
 
-git clone https://github.com/PsyChip/machina
-cd machina
+cd glasses_rings
 pip install -r requirements.txt
 
 2.Run the program：
