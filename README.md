@@ -14,8 +14,8 @@ For webcam (default)
 python app.py
 
 For specific RTSP stream
-python app.py --stream "rtsp://your-camera-url"
+python app.py --rtsp "rtsp://your-camera-url"
 
 For video file
-python app.py --stream "path/to/video.mp4"
+python app.py --video "path/to/video.mp4"
 
