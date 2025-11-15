@@ -1,6 +1,8 @@
 # glasses_rings
 眼镜和戒指检测识别
 
+支持更换yolo通用型检测模型，下载好的模型放在models目录下，名称修改成glasses_rings后重新启动
+
 # 1.Download and install:
 
 cd glasses_rings
