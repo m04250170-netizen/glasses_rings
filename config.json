@@ -1,0 +1,12 @@
+{
+  "processing_nth_frame": 3,
+  "screen_resolution": [
+    1920,
+    1080
+  ],
+  "window_position": [
+    100,
+    100
+  ],
+  "first_run": false
+}
