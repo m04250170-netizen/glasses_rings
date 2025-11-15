@@ -1,12 +1,12 @@
 # glasses_rings
 眼镜和戒指检测识别
 
-1.Download and install:
+# 1.Download and install:
 
 cd glasses_rings
 pip install -r requirements.txt
 
-2.Run the program：
+# 2.Run the program：
 
 # For webcam (default)
 python app.py
